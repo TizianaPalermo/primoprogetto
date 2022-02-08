@@ -8,4 +8,6 @@ In questo progetto vi descrivo un bellissimo borgo che si chiama **LAGO**:two_he
 Comune Italiano di 2000 abitanti circa della provincia di Cosenza.
 Lago è situato a sud est del capoluogo, a metà strada tra il litorale tirrenico amanteano e l altopiano di Potame.
 
-![lago](imgs/lago-640.jpg)
+![lago](imgs/lago.jpg)
+
+
